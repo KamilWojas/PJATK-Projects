@@ -7,7 +7,7 @@ This repository compiles a list of all the projects I have created during my stu
 Here are the links to my various projects:
 
 
-- [GUI](https://github.com/user/GUI) - Programowanie obiektowe i GUI (GUI)
+- [GUI](https://github.com/KamilWojas/pjatk-GUI) - Programowanie obiektowe i GUI (GUI)
 - [MAS](https://github.com/KamilWojas/MAS) - Modelowanie i analiza systemów informacyjnych (MAS)
 - [PRI](https://github.com/KamilWojas/pjatk-PRI) - Projektowanie systemów informacyjnych (PRI)
 - [ZPR](https://github.com/KamilWojas/pjatk-ZPR) - Zarządzanie projektem informatycznym (ZPR)
