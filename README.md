@@ -8,7 +8,7 @@ Here are the links to my various projects:
 
 
 - [GUI](https://github.com/user/GUI) - Programowanie obiektowe i GUI (GUI)
-- [MAS](https://github.com/user/MAS) - Modelowanie i analiza systemów informacyjnych (MAS)
+- [MAS](https://github.com/KamilWojas/MAS) - Modelowanie i analiza systemów informacyjnych (MAS)
 - [PRI](https://github.com/user/PRI) - Projektowanie systemów informacyjnych (PRI)
 - [ZPR](https://github.com/user/ZPR) - Zarządzanie projektem informatycznym (ZPR)
 - [BYT](https://github.com/user/BYT) - Budowa i integracja systemów informatycznych (BYT)
