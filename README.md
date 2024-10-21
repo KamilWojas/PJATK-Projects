@@ -10,6 +10,7 @@ Here are the links to my various projects:
 - [GUI](https://github.com/KamilWojas/pjatk-GUI) - Programowanie obiektowe i GUI (GUI)
 - [MAS](https://github.com/KamilWojas/MAS) - Modelowanie i analiza systemów informacyjnych (MAS)
 - [PRI](https://github.com/KamilWojas/pjatk-PRI) - Projektowanie systemów informacyjnych (PRI)
+- [ICK](https://github.com/KamilWojas/pjatk-ICK) - Interakcja człowiek-komputer (ICK)
 - [ZPR](https://github.com/KamilWojas/pjatk-ZPR) - Zarządzanie projektem informatycznym (ZPR)
 - [BYT](https://github.com/KamilWojas/pjatk-BYT) - Budowa i integracja systemów informatycznych (BYT)
 - [IPB](https://github.com/KamilWojas/pjatk-IPB) - Inżynieria procesów biznesowych (IPB)
