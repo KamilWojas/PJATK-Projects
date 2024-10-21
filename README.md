@@ -19,7 +19,7 @@ Here are the links to my various projects:
 - [SKJ](https://github.com/user/SKJ) - Sieci komputerowe i programowanie sieciowe w języku Java (SKJ)
 - [SOP](https://github.com/user/SOP) - Systemy operacyjne (SOP)
 - [TIN](https://github.com/KamilWojas/pjatk-TIN) - Technologie internetu (TIN)
-- [TPO](https://github.com/user/TPO) - Technologie programowania rozproszonego (TPO)
+- [TPO](https://github.com/KamilWojas/pjatk-TPO) - Technologie programowania rozproszonego (TPO)
 - [UTP](https://github.com/KamilWojas/pjatk-UTP) - Uniwersalne Techniki Programowania (UTP)
 - [ASD](https://github.com/user/ASD) - Algorytmy i struktury danych (ASD)
 - [NAI](https://github.com/user/NAI) - Narzędzia sztucznej inteligencji (NAI)
@@ -30,7 +30,6 @@ Here are the links to my various projects:
 
 
 
-- 
 ## Contact
 
 If you have any questions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/kamil-wojas-36aa24112/).
