@@ -19,7 +19,7 @@ Here are the links to my various projects:
 - [SOP](https://github.com/user/SOP) - Systemy operacyjne (SOP)
 - [TIN](https://github.com/KamilWojas/pjatk-TIN) - Technologie internetu (TIN)
 - [TPO](https://github.com/user/TPO) - Technologie programowania rozproszonego (TPO)
-- [UTP](https://github.com/user/UTP) - Uniwersalne Techniki Programowania (UTP)
+- [UTP](https://github.com/KamilWojas/pjatk-UTP) - Uniwersalne Techniki Programowania (UTP)
 - [ASD](https://github.com/user/ASD) - Algorytmy i struktury danych (ASD)
 - [NAI](https://github.com/user/NAI) - Narzędzia sztucznej inteligencji (NAI)
 - [BSI](https://github.com/user/BSI) - Bezpieczeństwo systemów informacyjnych (BSI)
