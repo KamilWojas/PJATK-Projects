@@ -1,7 +1,5 @@
 # PJATK-Projects
 
-# PJATK Projects
-
 This repository compiles a list of all the projects I have created during my studies at [PJATK](https://www.pja.edu.pl).
 
 ## Projects
