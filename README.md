@@ -25,7 +25,6 @@ Here are the links to my various projects:
 - [NAI](https://github.com/user/NAI) - Narzędzia sztucznej inteligencji (NAI)
 - [BSI](https://github.com/user/BSI) - Bezpieczeństwo systemów informacyjnych (BSI)
 - [APBD](https://github.com/KamilWojas/pjatk-APBD) - Aplikacje baz danych (APBD)
-- [PBIO](https://github.com/KamilWojas/pjatk-PBIO) - Podstawy bioinformatyki (PBIO)
 - [MIW](https://github.com/user/MIW) - Metody inżynierii wiedzy (MIW)
 - [ZSO](https://github.com/KamilWojas/pjatk-ZSO) - Metody inżynierii wiedzy (MIW)
 
