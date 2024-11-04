@@ -27,6 +27,7 @@ Here are the links to my various projects:
 - [APBD](https://github.com/KamilWojas/pjatk-APBD) - Aplikacje baz danych (APBD)
 - [MIW](https://github.com/user/MIW) - Metody inżynierii wiedzy (MIW)
 - [ZSO](https://github.com/KamilWojas/pjatk-ZSO) - Zaawansowane systemy operacyjne (ZSO)
+- [PBIO](https://github.com/KamilWojas/pjatk-PBIO) - Podstawy bioinformatyki (PBIO)
 
 
 ## Contact
