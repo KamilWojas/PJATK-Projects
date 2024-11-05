@@ -28,6 +28,7 @@ Here are the links to my various projects:
 - [MIW](https://github.com/user/MIW) - Metody inżynierii wiedzy (MIW)
 - [ZSO](https://github.com/KamilWojas/pjatk-ZSO) - Zaawansowane systemy operacyjne (ZSO)
 - [PBIO](https://github.com/KamilWojas/pjatk-PBIO) - Podstawy bioinformatyki (PBIO)
+- [PPJ](https://github.com/KamilWojas/pjatk-PPJ) - Podstawy programowania w java (PPJ)
 
 
 ## Contact
