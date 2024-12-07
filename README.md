@@ -34,11 +34,13 @@ Here are the links to my various projects:
 - [PPJ](https://github.com/KamilWojas/pjatk-PPJ) - Podstawy programowania w java (PPJ)
 
 
+
 Technologies Used
 Programming Languages: Java, Python, C++, SQL.
 Tools: Git, IntelliJ IDEA, Visual Studio Code.
 Frameworks: Spring, Django.
 Concepts: Object-Oriented Programming, Network Security, Algorithms.
+
 
 Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
