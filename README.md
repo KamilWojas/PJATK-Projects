@@ -1,6 +1,9 @@
 # PJATK-Projects
 
-This repository compiles a list of all the projects I have created during my studies at [PJATK](https://www.pja.edu.pl).
+About This Repository
+
+This repository is a comprehensive collection of all my academic projects during my studies at PJATK, showcasing the development of my technical and problem-solving skills.
+[PJATK](https://www.pja.edu.pl).
 
 ## Projects
 
@@ -30,6 +33,15 @@ Here are the links to my various projects:
 - [PBIO](https://github.com/KamilWojas/pjatk-PBIO) - Podstawy bioinformatyki (PBIO)
 - [PPJ](https://github.com/KamilWojas/pjatk-PPJ) - Podstawy programowania w java (PPJ)
 
+
+Technologies Used
+Programming Languages: Java, Python, C++, SQL.
+Tools: Git, IntelliJ IDEA, Visual Studio Code.
+Frameworks: Spring, Django.
+Concepts: Object-Oriented Programming, Network Security, Algorithms.
+
+Contributions
+Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
 
